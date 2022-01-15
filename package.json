@@ -1,0 +1,25 @@
+{
+  "name": "blazed-parking",
+  "version": "1.0.0",
+  "description": "Standard Blazed Labs parking page.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazed-space/blazed-parking.git"
+  },
+  "keywords": [
+    "blazed",
+    "labs",
+    "space",
+    "parking"
+  ],
+  "author": "blazed-space",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blazed-space/blazed-parking/issues"
+  },
+  "homepage": "https://github.com/blazed-space/blazed-parking#readme"
+}
