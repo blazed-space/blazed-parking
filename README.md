@@ -5,7 +5,6 @@ Blazed Standard Parking Page
 ## Demo
 - [Live demo 1](https://blazed.sbs/)
 - [Live demo 2](https://blazed.monster/)
-- [Live demo 3](https://parking.blazed.space/)
 
 ## Running Locally
 This page is delivered as a static HTML file. To run, simply double click "index.html".
