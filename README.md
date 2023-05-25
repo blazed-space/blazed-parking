@@ -4,7 +4,6 @@ Blazed Standard Parking Page
 
 ## Demo
 - [Live demo 1](https://blazed.sbs/)
-- [Live demo 2](https://blazed.monster/)
 - [Live demo 3](https://blazed-space.github.io/blazed-parking/)
 
 ## Running Locally
